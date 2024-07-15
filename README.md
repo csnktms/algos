@@ -8,4 +8,3 @@
 - Max Flow: Ford-Fulkerson
 - Kruskal
 - Min Cut
-
